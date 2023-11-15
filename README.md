@@ -18,9 +18,7 @@
 * queries
 
 <h3> Sơ đồ cơ sở dữ liệu</h3>
-
-![Untitled](https://github.com/DucAnhBeo/device_sales_management/assets/112877906/858e9dd9-e975-4fb4-acf2-2541c6729214)
-
+> diagram ở trên
 
 <h3> Chi tiết database design</h3>
 > file excel
