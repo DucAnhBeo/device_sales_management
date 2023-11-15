@@ -18,7 +18,8 @@
 * queries
 
 <h3> Sơ đồ cơ sở dữ liệu</h3>
-> diagram ở trên
+![Uploading image.png…]()
+
 
 <h3> Chi tiết database design</h3>
 > file excel
