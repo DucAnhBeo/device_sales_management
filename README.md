@@ -21,5 +21,5 @@
 > diagram ở trên
 
 <h3> Chi tiết database design</h3>
-> file excel
+> file excel Database_Structure.xlsx
 
